@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/yutt/conn/connect.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/yutt/mianshiti/ABADemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/yutt/mianshiti/CeShiLuanMa.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/yutt/mianshiti/CeShiLuanMa_lizi.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/yutt/mianshiti/ContenerNoteSafeDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/yutt/mianshiti/CountDownLaEnum.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/yutt/mianshiti/CountDownLatchDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/yutt/mianshiti/CyclicBarrierDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/yutt/mianshiti/CyclicBarrierTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/yutt/mianshiti/DeadLockDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/yutt/mianshiti/GCRootDemo20190902_1042.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/yutt/mianshiti/HelloGC20190902_1113.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/yutt/mianshiti/Jijie.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/yutt/mianshiti/MyThreadPoolDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/yutt/mianshiti/ProCust_Tradition_Demo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/yutt/mianshiti/ProdConsumer_BlockQueueDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/yutt/mianshiti/ReadWriteLockDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/yutt/mianshiti/ReentrantLockDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/yutt/mianshiti/SijiEnumExc_0.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/yutt/mianshiti/Singleton1.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/yutt/mianshiti/Singleton2.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/yutt/mianshiti/Singleton_te.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/yutt/mianshiti/SpinLockDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/yutt/mianshiti/StackOverflowErrorDemo_0903_2051.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/yutt/mianshiti/SynchAndReentrantLockDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/yutt/mianshiti/Taijie.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/yutt/mianshiti/VolitileDe.java" charset="GBK" />
+  </component>
+</project>
